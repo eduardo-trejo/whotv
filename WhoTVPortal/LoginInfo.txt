@@ -1,0 +1,12 @@
+username password student
+etrejo thisismypassword student
+evale testpassword student
+cwalsh anotherpassword student
+chughes passwordtest student
+worgertrice passwordtry student
+admin admin admin
+eduardo trejo admin
+eli vale admin
+chris walsh admin
+cameron hughes admin
+william orgertrice admin
